@@ -1,0 +1,2 @@
+# goInterface
+fiddling with Interfaces
